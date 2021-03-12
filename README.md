@@ -1,4 +1,4 @@
-# ﻿Week 1|Batch 5 |NIT Bhopal| Sharad Rai (haeckerzz)
+# ﻿Week 1|Batch 5 |NIT Bhopal| Bhavesh Chandewal
 
 ## Git commands
 
